@@ -1,0 +1,36 @@
+html body {
+  background-color: black;
+}
+
+.text {
+  text-align: center;
+  font-family: 'Cutive Mono', monospace;
+  color: yellow;
+  font-size: 3.5em;
+  font-weight: bold;
+  margin: 0.75em 0.75em 0.5em 0.75em;
+}
+
+h1 {
+  font-size: 2em;
+  color: yellow;
+}
+
+h2 {
+  font-size: 10px;
+  color: gray;
+  text-align: center;
+}
+
+div.justified {
+  display: flex;
+  justify-content: center;
+  margin: 1em;
+}
+
+.response {
+  text-align: center;
+  margin-top: 1em;
+  font-family: 'Cutive Mono', monospace;
+  color: yellow;
+}
